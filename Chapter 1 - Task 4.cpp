@@ -10,7 +10,7 @@ The equations of motion of the stone are of the form:
 along the horizontal axis x(t) = V * t * cos(alpha), along the upwardly directed
 vertical axis y(t) = H + V * t * sin(alpha) - g * t^2/2 (the coordinate is counted from the
 the bottom of the cliff).The time of flight of the stone T is determined by the condition y(T) = 0,
-i.e. H + V*T*san(alpha) - gT^2/2 = 0, whence we obtain
+i.e. H + V*T*sin(alpha) - gT^2/2 = 0, whence we obtain
 T = (V * sin(aplha)) / g)) * (1 + \sqrt 1 + ((2 * g * H) / (V^2 * sin^2(alha))
 */
 
